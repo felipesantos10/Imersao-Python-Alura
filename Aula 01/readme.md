@@ -4,6 +4,11 @@
 
 ### Introdução 
 Nesta aula, vamos começar a nossa análise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP, SUMIF e muitas outras fórmulas.
+- Nesta aula, você vai:
+    -Analisar as bases de variações na B3;
+    - Fazer análises exploratórias pelo Google Sheets com fórmulas
+    - Usar o Chat GPT;
+    - Gerar tabelas e cálculos de estatísticas como Máximo, Mínimo e Média.
 
 ### Análise Exploratória 
 - Extrair informações de uma base de dados.
