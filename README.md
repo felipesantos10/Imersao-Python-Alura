@@ -7,7 +7,8 @@ Uma jornada completa, desde os fundamentos do Excel e Google Sheets, até análi
 
 
 ## Sumario
-### [Aula 01 - ANÁLISE EXPLORATÓRIA COM GOOGLE SHEETS](<Aula 01>)
+- [Aula 01 - ANÁLISE EXPLORATÓRIA COM GOOGLE SHEETS](<Aula 01/readme.md>)
+- [Aula 02 - GRÁFICOS E ANÁLISES COM GOOGLE COLAB E PYTHON PANDAS ](<Aula 02/readme.md>)
 
 
 
