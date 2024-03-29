@@ -2,7 +2,7 @@
  <img src="./img/Aula 02 - Header capa.png">
 </p>
 
-
+# Imersão Python: Do Excel ao Dados
 ### Introdução
 Nesta aula, vamos criar gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab!
 - Nesta aula, você vai:
